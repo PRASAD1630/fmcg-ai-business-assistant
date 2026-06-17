@@ -1,0 +1,21 @@
+product_id,product_name,brand,category,sub_category,pack_size_ml,unit_price
+BEV-001,Cola Blast,Cola,Carbonated,Carbonated,500,38.49
+BEV-002,Lemon Spark,Lemon,Carbonated,Carbonated,1000,87.71
+BEV-003,Orange Fizz,Orange,Carbonated,Carbonated,1000,89.22
+BEV-004,Soda Max,Soda,Carbonated,Carbonated,500,100.86
+BEV-005,Mango Fresh,Mango,Juice,Juice,500,22.29
+BEV-006,Apple Delight,Apple,Juice,Juice,500,86.42
+BEV-007,Mixed Berry,Mixed,Juice,Juice,250,108.56
+BEV-008,Orange Pure,Orange,Juice,Juice,1000,39.71
+BEV-009,Aqua Plus,Aqua,Water,Water,1000,90.62
+BEV-010,Pure Drop,Pure,Water,Water,500,75.76
+BEV-011,Fresh Spring,Fresh,Water,Water,250,102.31
+BEV-012,Hydro Life,Hydro,Water,Water,750,29.24
+BEV-013,Power Rush,Power,Energy,Energy,500,85.06
+BEV-014,Energy Max,Energy,Energy,Energy,750,27.84
+BEV-015,Turbo Boost,Turbo,Energy,Energy,1000,58.61
+BEV-016,Volt Charge,Volt,Energy,Energy,750,50.5
+BEV-017,Milk Plus,Milk,Dairy,Dairy,500,50.28
+BEV-018,Choco Milk,Choco,Dairy,Dairy,250,115.03
+BEV-019,Protein Shake,Protein,Dairy,Dairy,250,56.65
+BEV-020,Yogurt Drink,Yogurt,Dairy,Dairy,750,40.06
